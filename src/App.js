@@ -26,7 +26,7 @@ function App() {
             </Header>
             <Content className={s.Content}>
                 <Objects countObj={counter}/>
-                <input className={s.Inp} type="text" onChange={handleAnswer} value={answer}/>
+                <input className={s.Inp} type="text" onChange={handleAnswer} placeholder={'Сколько их?'} value={answer}/>
 
             </Content>
             <Footer style={{textAlign: 'center'}}>В чем разница между уткой?🦆</Footer>
