@@ -1,0 +1,23 @@
+.Btn {
+    width: 100px;
+    margin: 0 auto 0;
+    height: 35px;
+
+}
+
+.Inp {
+    width: 100px;
+    margin: auto auto 10px;
+
+
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: white;
+    padding: 10px;
+}
+
+
