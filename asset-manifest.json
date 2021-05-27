@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/lr-test1/static/css/main.99f2d2c2.chunk.css",
-    "main.js": "/lr-test1/static/js/main.c0946f82.chunk.js",
-    "main.js.map": "/lr-test1/static/js/main.c0946f82.chunk.js.map",
-    "runtime-main.js": "/lr-test1/static/js/runtime-main.ea272499.js",
-    "runtime-main.js.map": "/lr-test1/static/js/runtime-main.ea272499.js.map",
+    "main.css": "/lr-test1/static/css/main.9f6b0f96.chunk.css",
+    "main.js": "/lr-test1/static/js/main.8de4a2f8.chunk.js",
+    "main.js.map": "/lr-test1/static/js/main.8de4a2f8.chunk.js.map",
+    "runtime-main.js": "/lr-test1/static/js/runtime-main.c623d737.js",
+    "runtime-main.js.map": "/lr-test1/static/js/runtime-main.c623d737.js.map",
     "static/css/2.3089e125.chunk.css": "/lr-test1/static/css/2.3089e125.chunk.css",
-    "static/js/2.484e3bf1.chunk.js": "/lr-test1/static/js/2.484e3bf1.chunk.js",
-    "static/js/2.484e3bf1.chunk.js.map": "/lr-test1/static/js/2.484e3bf1.chunk.js.map",
-    "static/js/3.e13f7d3a.chunk.js": "/lr-test1/static/js/3.e13f7d3a.chunk.js",
-    "static/js/3.e13f7d3a.chunk.js.map": "/lr-test1/static/js/3.e13f7d3a.chunk.js.map",
+    "static/js/2.5d48f8be.chunk.js": "/lr-test1/static/js/2.5d48f8be.chunk.js",
+    "static/js/2.5d48f8be.chunk.js.map": "/lr-test1/static/js/2.5d48f8be.chunk.js.map",
+    "static/js/3.e41b7639.chunk.js": "/lr-test1/static/js/3.e41b7639.chunk.js",
+    "static/js/3.e41b7639.chunk.js.map": "/lr-test1/static/js/3.e41b7639.chunk.js.map",
     "index.html": "/lr-test1/index.html",
     "static/css/2.3089e125.chunk.css.map": "/lr-test1/static/css/2.3089e125.chunk.css.map",
-    "static/css/main.99f2d2c2.chunk.css.map": "/lr-test1/static/css/main.99f2d2c2.chunk.css.map",
-    "static/js/2.484e3bf1.chunk.js.LICENSE.txt": "/lr-test1/static/js/2.484e3bf1.chunk.js.LICENSE.txt",
+    "static/css/main.9f6b0f96.chunk.css.map": "/lr-test1/static/css/main.9f6b0f96.chunk.css.map",
+    "static/js/2.5d48f8be.chunk.js.LICENSE.txt": "/lr-test1/static/js/2.5d48f8be.chunk.js.LICENSE.txt",
     "static/media/dog.png": "/lr-test1/static/media/dog.9be2582d.png",
     "static/media/guy_fawkes_mask.svg": "/lr-test1/static/media/guy_fawkes_mask.02b32ef5.svg",
     "static/media/yaoming_meme.svg": "/lr-test1/static/media/yaoming_meme.7825ee8f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea272499.js",
+    "static/js/runtime-main.c623d737.js",
     "static/css/2.3089e125.chunk.css",
-    "static/js/2.484e3bf1.chunk.js",
-    "static/css/main.99f2d2c2.chunk.css",
-    "static/js/main.c0946f82.chunk.js"
+    "static/js/2.5d48f8be.chunk.js",
+    "static/css/main.9f6b0f96.chunk.css",
+    "static/js/main.8de4a2f8.chunk.js"
   ]
 }
