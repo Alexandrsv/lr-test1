@@ -22,14 +22,14 @@ function App() {
     return (
         <Layout style={{height: '100vh'}}>
             <Header>
-                <h1 style={{color: 'white'}}>Посчитай всякое!</h1>
+                <h1 style={{color: 'white'}}>Посчитай!</h1>
             </Header>
-            <Content className={s.content}>
+            <Content className={s.Content}>
                 <Objects countObj={counter}/>
                 <input className={s.Inp} type="text" onChange={handleAnswer} value={answer}/>
 
             </Content>
-            <Footer style={{textAlign: 'center'}}>Используй силу во благо</Footer>
+            <Footer style={{textAlign: 'center'}}>В чем разница между уткой?🦆</Footer>
         </Layout>
     );
 }
