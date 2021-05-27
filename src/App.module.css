@@ -1,3 +1,9 @@
+.Inp {
+    width: 100px;
+    bottom: 100px;
+    position: absolute;
+}
+
 .Btn {
     width: 100px;
     margin: 0 auto 0;
@@ -5,19 +11,15 @@
 
 }
 
-.Inp {
-    width: 100px;
-    margin: auto auto 10px;
-
-
-}
-
 .content {
     display: flex;
     flex-direction: column;
     width: 100%;
+    height: 100%;
     background: white;
     padding: 10px;
+    justify-content:center;
+    align-items:center;
 }
 
 
